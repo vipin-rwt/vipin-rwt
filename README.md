@@ -23,10 +23,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipin-rwt&hide=stars&count_private=true&show_icons=true&theme=jolly&border_radius=20)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vipin-rwt&theme=holi-theme)](https://git.io/streak-stats)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vipin-rwt&layout=compact&show_icons=true&theme=jolly&border_radius=20)
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vipin-rwt&theme=highcontrast&border_radius=12.9&ring=0CE7FFDA&currStreakLabel=51FFF9&fire=37FFFF&stroke=D2C6DD)](https://git.io/streak-stats)
+
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vipin-rwt&hide=stars&count_private=true&show_icons=true&theme=jolly&border_radius=20)
+
 </div>
 
 
